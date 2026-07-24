@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "daily-briefing",
+      "description": "Subah \"good morning\" / \"din ka update do\" bole to phone ka pura ek-baar-me briefing dena",
+      "file": "skills/daily-briefing.md",
+      "updated": "2026-07-24"
+    },
+    {
+      "name": "whatsapp-pro",
+      "description": "WhatsApp ka koi bhi kaam (message, reply, group, file, call) galti-free tarike se karna",
+      "file": "skills/whatsapp-pro.md",
+      "updated": "2026-07-24"
+    },
+    {
+      "name": "call-secretary",
+      "description": "Incoming phone call aane pe announce/pickup/reject aur call ke baad ka pura etiquette",
+      "file": "skills/call-secretary.md",
+      "updated": "2026-07-24"
+    },
+    {
+      "name": "photo-share",
+      "description": "Photo/video khinch ke ya gallery se nikaal ke WhatsApp pe bhejne ka end-to-end flow",
+      "file": "skills/photo-share.md",
+      "updated": "2026-07-24"
+    },
+    {
+      "name": "music-dj",
+      "description": "Gaana/music/video bajane, control karne aur mood ke hisaab se DJ banne ka tarika",
+      "file": "skills/music-dj.md",
+      "updated": "2026-07-24"
+    },
+    {
+      "name": "phone-care",
+      "description": "Battery bachana, phone slow/garam hone pe care karna, settings sahi karna",
+      "file": "skills/phone-care.md",
+      "updated": "2026-07-24"
+    },
+    {
+      "name": "study-focus",
+      "description": "Padhai/kaam ka focus session — DND, timer, distractions band, end pe recap",
+      "file": "skills/study-focus.md",
+      "updated": "2026-07-24"
+    }
+  ]
+}
