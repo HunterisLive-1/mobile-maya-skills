@@ -42,6 +42,12 @@
       "description": "Padhai/kaam ka focus session — DND, timer, distractions band, end pe recap",
       "file": "skills/study-focus.md",
       "updated": "2026-07-24"
+    },
+    {
+      "name": "chatgpt-image-gen",
+      "description": "Jab user \"image bana do / AI se photo generate karo\" bole to ChatGPT app se image banwa ke download karna",
+      "file": "skills/chatgpt-image-gen.md",
+      "updated": "2026-07-24"
     }
   ]
 }
