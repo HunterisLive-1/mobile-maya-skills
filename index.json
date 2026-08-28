@@ -48,6 +48,12 @@
       "description": "Jab user \"image bana do / AI se photo generate karo\" bole to ChatGPT app se sub-agent se image banwa ke download karna",
       "file": "skills/chatgpt-image-gen.md",
       "updated": "2026-07-24"
+    },
+    {
+      "name": "smart-commute",
+      "description": "Commute ya journey plan karte waqt route, traffic, weather aur schedule ko combine karke practical travel help dena",
+      "file": "skills/smart-commute.md",
+      "updated": "2026-08-28"
     }
   ]
 }
