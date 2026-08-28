@@ -48,6 +48,12 @@
       "description": "Jab user \"image bana do / AI se photo generate karo\" bole to ChatGPT app se sub-agent se image banwa ke download karna",
       "file": "skills/chatgpt-image-gen.md",
       "updated": "2026-07-24"
+    },
+    {
+      "name": "smart-share",
+      "description": "Photo, file, link ya screen content ko sahi person aur app par safely share karne mein help karna",
+      "file": "skills/smart-share.md",
+      "updated": "2026-08-28"
     }
   ]
 }
