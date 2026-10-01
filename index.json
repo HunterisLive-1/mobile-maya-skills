@@ -48,6 +48,12 @@
       "description": "Jab user \"image bana do / AI se photo generate karo\" bole to ChatGPT app se sub-agent se image banwa ke download karna",
       "file": "skills/chatgpt-image-gen.md",
       "updated": "2026-07-24"
+    },
+    {
+      "name": "youtube-daily-upload",
+      "description": "Jab user YouTube par video upload kare, fixed description, relevant title aur tags ke saath upload karo.",
+      "file": "skills/youtube-daily-upload.md",
+      "updated": "2026-10-01"
     }
   ]
 }
